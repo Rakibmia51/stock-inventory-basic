@@ -196,6 +196,7 @@ const Users = () => {
                             <th className='border border-gray-200 p-2'>Name</th>
                             <th className='border border-gray-200 p-2'>Email</th>
                             <th className='border border-gray-200 p-2'>Address</th>
+                            <th className='border border-gray-200 p-2'>Role</th>
                             <th className='border border-gray-200 p-2'>Action</th>
                         </tr>
                     </thead>

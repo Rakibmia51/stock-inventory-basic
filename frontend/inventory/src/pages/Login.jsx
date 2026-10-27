@@ -50,7 +50,7 @@ const Login = () => {
     bg-gradient-to-b from-blue-600 from-50% to-gray-100 to-50% space-y-6">
 
       <h2 className="text-3xl text-white text-center">
-        Global Skill Force Development & Research Center
+        Stock Inventory Management
       </h2>
 
       <form
